@@ -1,5 +1,6 @@
-def new_hash
-
+def new_hash(me)
+me = {name: "Tanya", fav_food: "Chicken", color: "blue"}
+ 
 end
 
 def actor
